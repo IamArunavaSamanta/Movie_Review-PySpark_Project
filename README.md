@@ -1,10 +1,10 @@
-# Movie_Review-Pyspark_Project
+# Movie_Review-PySpark_Project
 
 # Business Scenario:
 We are a data analyst working for a movie streaming platform. Our task is to analyze user ratings and movie metadata to generate insights.
 
 # Technologies: 
-1.Pyspark
+1.PySpark
 2.Notebook
 3.Power BI
 
